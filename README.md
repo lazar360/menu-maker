@@ -19,17 +19,11 @@ A website using Java Android.
 This one single page website displays an employee manager.
 Users can do the following :
 <ul>
-    <li>Filter product</li>
-    <li>Login with mail or google</li>
-    <li>Purchase a product</li>
-    <li>Pay with credit card</li>
-    <li>See your order history</li>
+    <li>See your dishes</li>
+    <li>create your menu without eating the same thing twice</li>
 </ul>
 <h2>Technology</h2>
 <ul>
-    <li>Angular 16</li>
-    <li>MySql 5</li>
-    <li>Okta</li>
-    <li>Spring Boot 3</li>
-    <li>Stripe</li>
+    <li>Java 8</li>
+    <li>Android Studio</li>
 </ul>
