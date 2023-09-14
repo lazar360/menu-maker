@@ -22,19 +22,19 @@ public class MainActivity extends AppCompatActivity {
 
        List<Item> items = Arrays.asList(
                new Item("purée saucisse", R.drawable.a ),
-               new Item("rôti de porc", R.drawable.b ),
-               new Item("gratin dauphinois", R.drawable.c ),
+               new Item("spaghettis bolognaise", R.drawable.b ),
+               new Item("porc au caramel", R.drawable.c ),
                new Item("steak haché haricots verts", R.drawable.d ),
-               new Item("côte de porc salsifis", R.drawable.e ),
+               new Item("brochettes de poulet", R.drawable.e ),
                new Item("salade de gésiers", R.drawable.f ),
-               new Item("couscous poulet curry", R.drawable.g ),
-               new Item("bœuf aux oignons", R.drawable.h ),
-               new Item("saucisse emmitouflée", R.drawable.i ),
-               new Item("carotte saucisse", R.drawable.a ),
-               new Item(" ravioles sauce au pistou", R.drawable.b ),
-               new Item("bavette à l'échalote", R.drawable.c ),
-               new Item(" poisson pané ratatouille", R.drawable.d ),
-               new Item("tourte tomate", R.drawable.e)
+               new Item("steack salade tomates", R.drawable.g ),
+               new Item("lieu noir cuit au four", R.drawable.h ),
+               new Item("saumon ratatouille", R.drawable.i ),
+               new Item("couscous royal", R.drawable.a ),
+               new Item("ravioles sauce au pistou", R.drawable.b ),
+               new Item("spaghettis carbonara", R.drawable.c ),
+               new Item("bavette à l'échalote", R.drawable.d ),
+               new Item("brochettes au porc", R.drawable.e)
       );
 
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
