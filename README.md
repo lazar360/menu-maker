@@ -13,7 +13,7 @@ A website using Java Android.
 
 <h2>Demo</h2>
 
-![angular-ecomerce](https://github.com/lazar360/angular-ecommerce/assets/91179295/2f21fb0f-6f62-4a6f-83b5-eba8a2d013c5)
+![menu-maker](https://github.com/lazar360/menu-maker/assets/91179295/a997e80a-8fa8-48bd-b45f-efb1d77a4eeb)
 
 <h2>Features</h2>
 This one single page website displays an employee manager.
