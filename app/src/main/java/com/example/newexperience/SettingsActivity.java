@@ -19,6 +19,15 @@ public class SettingsActivity extends AppCompatActivity {
     }
 
     public void createMenu(View theView){
-        ((TextView)findViewById(R.id.textView5)).setText("Hello");
+
+        ((TextView)findViewById(R.id.textView5)).setText("LundiSoir"); // LundiSoir
+        ((TextView)findViewById(R.id.textView10)).setText("MardiSoir"); // MardiSoir
+        ((TextView)findViewById(R.id.textView13)).setText("MercrediSoir"); // MercrediSoir
+        ((TextView)findViewById(R.id.textView16)).setText("JeudiSoir"); // JeudiSoir
+        ((TextView)findViewById(R.id.textView19)).setText("VendrediSoir"); // VendrediSoir
+        ((TextView)findViewById(R.id.textView22)).setText("SamediMidi"); // SamediMidi
+        ((TextView)findViewById(R.id.textView25)).setText("SamediSoir"); // SamediSoir
+        ((TextView)findViewById(R.id.textView28)).setText("DimancheMidi"); // DimancheMidi
+        ((TextView)findViewById(R.id.textView31)).setText("DimancheSoir"); // DimancheSoir
     }
 }
