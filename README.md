@@ -16,7 +16,7 @@ A website using Java Android.
 ![menu-maker](https://github.com/lazar360/menu-maker/assets/91179295/95207177-2c15-4a40-b1d1-1bfb665a1e61)
 
 <h2>Features</h2>
-This one single page website displays an employee manager.
+This android app displays a menu maker.
 Users can do the following :
 <ul>
     <li>See your dishes</li>
